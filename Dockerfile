@@ -1,1 +1,1 @@
-From gcr.io/cloud-builders/gcs-fetcher
+FROM gcr.io/cloud-builders/gcs-fetcher
